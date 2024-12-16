@@ -1,2 +1,2 @@
-# kghistory
-Knowledge Graph and Historical Research
+# Digital History
+Natural language processing and historical research
