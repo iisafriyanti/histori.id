@@ -1,0 +1,45 @@
+[
+    {
+        "query" : "Perundingan antara Indonesia dan Belanda di Linggardjati mencakup pengakuan de facto Republik Indonesia hanya atas Jawa saja.",
+        "evidence_newsletter_name" : "Soeara Oemoem",
+        "evidence_published_date_newsletter" : "1946-11-15",
+        "evidence_sentence": "Adapun pokok pembicaraan dalam sidang tersebut adalah susunan Republik Indonesia yang mencakup seluruh wilayah 'Hindia Belanda' dahulu dan pengakuan de facto dari Pemerintahan Republik di Jawa dan Sumatera sebagai langkah awal untuk menyusun negara Indonesia.",
+        "label" : "REFUTE"  
+    },
+    {
+        "query" : "Perjanjian Linggardjati berakhir pada bulan Desember",
+        "evidence_newsletter_name" : "Soeara Oemoem",
+        "evidence_published_date_newsletter" : "1946-11-15",
+        "evidence_sentence": "Yogyakarta, 14 November (Antara): Kementerian Penerangan mengumumkan bahwa perundingan Indonesia-Belanda di Linggardjati telah berakhir.",
+        "label" : "REFUTE"      
+    },
+    {
+        "query" : "Lord Killearn: Memimpin rapat pleno perundingan Linggardjati pada 13 November",
+        "evidence_newsletter_name" : "Soeara Oemoem",
+        "evidence_published_date_newsletter" : "1946-11-15",
+        "evidence_sentence": "Cirebon, 14 November (Antara): Perundingan di Linggardjati dilaporkan bahwa pada 13 November malam, mulai pukul 22.00, diadakan rapat pleno yang dipimpin oleh Lord Killearn antara delegasi Indonesia dan Komisi Jenderal Belanda",
+        "label" : "SUPPORT"      
+    },
+    {
+        "query" : "Konsulat Inggris akan kembali diresmikan di Medan.",
+        "evidence_newsletter_name" : "Soeara Oemoem",
+        "evidence_published_date_newsletter" : "1946-11-15",
+        "evidence_sentence": "Medan, 14 November (Antara): 'Antara' mendapatkan kabar bahwa dalam waktu dekat Konsulat Inggris akan dibuka kembali di Medan.",
+        "label" : "SUPPORT"      
+    },
+    {
+        "query" : "Dr. Wellington Koo adalah utusan Tiongkok untuk PBB pada tahun 1946",
+        "evidence_newsletter_name" : "Soeara Oemoem",
+        "evidence_published_date_newsletter" : "1946-11-15",
+        "evidence_sentence": "Dalam pernyataannya, Dr. Wellington Koo, salah satu perwakilan terkemuka dari Tiongkok dalam Perserikatan Bangsa-Bangsa, menegaskan bahwa Indonesia memegang peranan penting dalam stabilitas kawasan Asia.",
+        "label" : "SUPPORT"      
+    },
+    {
+        "query" : "Dr. Van Mook tidak hadir dalam rapat pleno di Linggardjati tahun 1946",
+        "evidence_newsletter_name" : "Soeara Oemoem",
+        "evidence_published_date_newsletter" : "1946-11-15",
+        "evidence_sentence": "Delegasi Indonesia dan Belanda hadir lengkap, kecuali Dr. Van Mook.",
+        "label" : "SUPPORT"      
+    }
+    
+]
